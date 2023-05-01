@@ -1,0 +1,115 @@
+/* .dropbtn2 {
+
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  
+  .dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content2 a {
+    color: black;
+
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content2 a:hover {background-color: #ddd;}
+  
+  .dropdown2:hover .dropdown-content2 {display: block;}
+  
+  .dropdown2:hover .dropbtn2 {background-color: #3e8e41;} */
+
+  /*Crossing Menu bar CSS*/
+        /* .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            z-index:10;
+        }
+
+        .bar1, .bar2, .bar3 {
+            width: 35px;
+            height: 5px;
+            background-color: white;
+            margin: 6px 0;
+            transition: 0.4s;
+            z-index: 1;
+        } */
+
+        /* .dropbtn{
+        	cursor: pointer;
+        	z-index: 11	;
+        } */
+
+        /* .dropbtn:focus{
+            background-color: #2980B9;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;        
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 160px;
+            overflow: auto;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            
+        } */
+
+        /* Rotate first bar */
+        /* .change .bar1 {
+            -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+            transform: rotate(-45deg) translate(-9px, 6px) ;
+        } */
+
+        /* Fade out the second bar */
+        /* .change .bar2 {
+            opacity: 0;
+        } */
+
+        /* Rotate last bar */
+        /* .change .bar3 {
+            -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+            transform: rotate(45deg) translate(-8px, -8px) ;
+        }
+
+        #active{
+            background-color: #ddd;
+        }
+        .show {display: block;}  */
+
+        .item img{
+            width: auto;
+            height: 20%; 
+            object-fit: cover;           
+            aspect-ratio: unset;
+        }
+
+        .item{
+            /* height: 100%;  */
+            /* border: 3px solid green; */
+            /* width: 100%; */
+            margin: 0 auto ;
+            padding: 0%;
+            /* background-attachment: fixed; */
+        }
